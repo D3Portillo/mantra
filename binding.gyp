@@ -1,0 +1,1 @@
+{"targets":[{"target_name":"addons","sources":["./src/addons/hello.cpp"]}]}
